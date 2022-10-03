@@ -1,0 +1,50 @@
+﻿<Window x:Class="Avaliacao_dotnet.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Avaliacao_dotnet"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="675" Width="480"
+        MinHeight="675"
+        MinWidth="480">
+    <Grid Height="660" Width="480">
+        <TextBlock FontSize="24" Margin="0,60,0,570" HorizontalAlignment="Center" FontFamily="Inter" FontWeight="Bold">
+            Autenticação de usuário
+        </TextBlock>
+        <TextBlock FontSize="16" Margin="60,145,0,485" HorizontalAlignment="Left" FontFamily="Inter">
+            Usuário
+        </TextBlock>
+        <TextBox 
+            x:Name="UserBox"
+            Width="360" 
+            Height="60" 
+            Background="#D9D9D9" 
+            Margin="60,180,60, 420"
+            FontFamily="Inter"
+            FontSize="24"
+            TextAlignment="Left"
+        />
+        <TextBlock FontSize="16" Margin="60,325,0,305" HorizontalAlignment="Left" FontFamily="Inter">
+            Senha
+        </TextBlock>
+        <PasswordBox 
+            x:Name="PasswordBox"
+            Width="360" 
+            Height="60" 
+            Background="#D9D9D9" 
+            Margin="60,360,60,240"
+            FontFamily="Inter"
+            FontSize="24"
+        />
+        <Button
+            Width="240"
+            Height="60"
+            Margin="120,540,120,44"
+            FontFamily="Inter"
+            FontSize="16"
+            Content="Acessar"
+            Click="Access_Button"
+        />
+    </Grid>
+</Window>
