@@ -43,8 +43,32 @@
             Margin="120,540,120,44"
             FontFamily="Inter"
             FontSize="16"
+            Cursor="Hand"
             Content="Acessar"
             Click="Access_Button"
         />
+        <Grid x:Name="gridVisibility" Background="#000000" Opacity="0.5" Visibility="Hidden"/>
+        <Grid x:Name="gridAproved" Visibility="Hidden">
+            <Button
+                Height="180"
+                Width="360"
+                FontFamily="Inter"
+                FontSize="24"
+                Content="Usuário autenticado!"
+                Cursor="Hand"
+                Click="valid_User_Click"
+                />
+        </Grid>
+        <Grid x:Name="gridNotAproved" Visibility="Hidden">
+            <Button
+                Height="180"
+                Width="360"
+                FontFamily="Inter"
+                FontSize="24"
+                Content="Credenciais Inválidas!"
+                Cursor="Hand"
+                Click="Invalid_User_Click"
+                />
+        </Grid>
     </Grid>
 </Window>

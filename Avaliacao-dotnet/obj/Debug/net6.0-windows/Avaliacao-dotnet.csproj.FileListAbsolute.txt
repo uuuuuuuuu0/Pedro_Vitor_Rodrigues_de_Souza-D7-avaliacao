@@ -4,15 +4,11 @@ C:\Users\pepep\VSCode\Samsung\D7\Pedro_Vitor_Rodrigues_de_Souza-D7-avaliacao\Ava
 C:\Users\pepep\VSCode\Samsung\D7\Pedro_Vitor_Rodrigues_de_Souza-D7-avaliacao\Avaliacao-dotnet\bin\Debug\net6.0-windows\Avaliacao-dotnet.dll
 C:\Users\pepep\VSCode\Samsung\D7\Pedro_Vitor_Rodrigues_de_Souza-D7-avaliacao\Avaliacao-dotnet\bin\Debug\net6.0-windows\Avaliacao-dotnet.pdb
 C:\Users\pepep\VSCode\Samsung\D7\Pedro_Vitor_Rodrigues_de_Souza-D7-avaliacao\Avaliacao-dotnet\obj\Debug\net6.0-windows\Avaliacao-dotnet.csproj.AssemblyReference.cache
-C:\Users\pepep\VSCode\Samsung\D7\Pedro_Vitor_Rodrigues_de_Souza-D7-avaliacao\Avaliacao-dotnet\obj\Debug\net6.0-windows\InvalidUser.g.cs
 C:\Users\pepep\VSCode\Samsung\D7\Pedro_Vitor_Rodrigues_de_Souza-D7-avaliacao\Avaliacao-dotnet\obj\Debug\net6.0-windows\MainWindow.g.cs
-C:\Users\pepep\VSCode\Samsung\D7\Pedro_Vitor_Rodrigues_de_Souza-D7-avaliacao\Avaliacao-dotnet\obj\Debug\net6.0-windows\ValidUser.g.cs
 C:\Users\pepep\VSCode\Samsung\D7\Pedro_Vitor_Rodrigues_de_Souza-D7-avaliacao\Avaliacao-dotnet\obj\Debug\net6.0-windows\App.g.cs
 C:\Users\pepep\VSCode\Samsung\D7\Pedro_Vitor_Rodrigues_de_Souza-D7-avaliacao\Avaliacao-dotnet\obj\Debug\net6.0-windows\Avaliacao-dotnet_MarkupCompile.cache
 C:\Users\pepep\VSCode\Samsung\D7\Pedro_Vitor_Rodrigues_de_Souza-D7-avaliacao\Avaliacao-dotnet\obj\Debug\net6.0-windows\Avaliacao-dotnet_MarkupCompile.lref
-C:\Users\pepep\VSCode\Samsung\D7\Pedro_Vitor_Rodrigues_de_Souza-D7-avaliacao\Avaliacao-dotnet\obj\Debug\net6.0-windows\InvalidUser.baml
 C:\Users\pepep\VSCode\Samsung\D7\Pedro_Vitor_Rodrigues_de_Souza-D7-avaliacao\Avaliacao-dotnet\obj\Debug\net6.0-windows\MainWindow.baml
-C:\Users\pepep\VSCode\Samsung\D7\Pedro_Vitor_Rodrigues_de_Souza-D7-avaliacao\Avaliacao-dotnet\obj\Debug\net6.0-windows\ValidUser.baml
 C:\Users\pepep\VSCode\Samsung\D7\Pedro_Vitor_Rodrigues_de_Souza-D7-avaliacao\Avaliacao-dotnet\obj\Debug\net6.0-windows\Avaliacao-dotnet.g.resources
 C:\Users\pepep\VSCode\Samsung\D7\Pedro_Vitor_Rodrigues_de_Souza-D7-avaliacao\Avaliacao-dotnet\obj\Debug\net6.0-windows\Avaliacao-dotnet.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\pepep\VSCode\Samsung\D7\Pedro_Vitor_Rodrigues_de_Souza-D7-avaliacao\Avaliacao-dotnet\obj\Debug\net6.0-windows\Avaliacao-dotnet.AssemblyInfoInputs.cache

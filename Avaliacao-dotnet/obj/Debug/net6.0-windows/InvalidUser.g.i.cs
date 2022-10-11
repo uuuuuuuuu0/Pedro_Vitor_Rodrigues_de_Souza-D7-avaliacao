@@ -53,7 +53,7 @@ namespace Avaliacao_dotnet {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Avaliacao-dotnet;component/invaliduser.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Avaliacao-dotnet;V1.0.0.0;component/invaliduser.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\InvalidUser.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

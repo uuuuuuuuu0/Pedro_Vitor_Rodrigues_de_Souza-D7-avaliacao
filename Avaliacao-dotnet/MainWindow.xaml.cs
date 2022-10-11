@@ -22,6 +22,7 @@ namespace Avaliacao_dotnet
 
         private void Access_Button(object sender, RoutedEventArgs e)
         {
+            gridVisibility.Visibility = Visibility.Visible;
             bool SucessLogin = false;
             user.Email = UserBox.Text;
             user.Password = PasswordBox.Password;
@@ -34,17 +35,27 @@ namespace Avaliacao_dotnet
                 {
                     if (user.Password == info.Password)
                     {
-                        ValidUser validUser = new ValidUser();
-                        validUser.Show();
+                        gridAproved.Visibility = Visibility.Visible;
                         SucessLogin = true;
                     }
                 }
             }
             if (!SucessLogin)
             {
-                InvalidUser invalidUser = new InvalidUser();
-                invalidUser.Show();
+                gridNotAproved.Visibility=Visibility.Visible;
             }
+        }
+
+        private void valid_User_Click(object sender, RoutedEventArgs e)
+        {
+            gridVisibility.Visibility = Visibility.Hidden;
+            gridAproved.Visibility = Visibility.Hidden;
+        }
+
+        private void Invalid_User_Click(object sender, RoutedEventArgs e)
+        {
+            gridVisibility.Visibility = Visibility.Hidden;
+            gridNotAproved.Visibility = Visibility.Hidden;
         }
     }
 }
